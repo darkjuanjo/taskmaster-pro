@@ -10,7 +10,7 @@
 Please see link below for the taskmaster-pro accessible URL:<br/>
         https://darkjuanjo.github.io/taskmaster-pro/
         
-**Below is the source code for the Work Day Scheduler Grading in GitHub. Please note that code is in <span style="color:red">assets/js</span>.<br />**
+**Below is the source code for the taskmaster-pro Grading in GitHub. Please note that code is in <span style="color:red">assets/js</span>.<br />**
         https://github.com/darkjuanjo/taskmaster-pro
 
 
